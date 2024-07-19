@@ -11,7 +11,6 @@ Cubecraft World es un juego interactivo desarrollado en HTML5 y JavaScript. En e
 - **Gráficos**: 2D con estilo cúbico
 - **Compatible con**: Desktop y dispositivos móviles
 - **Controles**: Teclado y ratón (o táctil en dispositivos móviles)
-- **Música y efectos de sonido**: Incluidos
 - **Licencia**: MIT
 
 ## Instalación
