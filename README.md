@@ -1,4 +1,4 @@
-Cubecraft World es un juego interactivo desarrollado en HTML5 y JavaScript. En este juego, los jugadores pueden explorar un mundo cúbico, resolver puzzles y superar desafíos. Es ideal tanto para el entretenimiento como para aprender sobre desarrollo web.
+
 # Cubecraft World
 
 Cubecraft World es un juego interactivo desarrollado en HTML5 y JavaScript. En este juego, los jugadores pueden explorar un mundo cúbico, resolver puzzles y superar desafíos. Es ideal tanto para el entretenimiento como para aprender sobre desarrollo web.
